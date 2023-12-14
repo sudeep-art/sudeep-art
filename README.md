@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudeep-art
+- 👋 Hi, I’m @sudeep._.x
 - 👀 I’m interested in computer science and devlopment
 - 🌱 I’m currently studying in IIITV-ICD
 - 💞️ I’m looking to collaborate on ...
